@@ -16,7 +16,6 @@
     "url": "https://github.com/jyun9504/css-course-natours/issues"
   },
   "homepage": "https://github.com/jyun9504/css-course-natours#readme",
-  "dependencies": {},
   "devDependencies": {
     "node-sass": "^4.14.0"
   }
